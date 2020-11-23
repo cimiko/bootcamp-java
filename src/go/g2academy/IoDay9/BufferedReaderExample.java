@@ -10,9 +10,6 @@ public class BufferedReaderExample {
         InputStreamReader r = new InputStreamReader(System.in);
         BufferedReader br = new BufferedReader(r);
         System.out.println("Enter your name");
-    //Cara untuk Print 1x by console
-//        String name = br.readLine();
-//        System.out.println("Welcome " + name);
 
 
     //Cara untuk Print berkali" sampai mengetik stop di console
